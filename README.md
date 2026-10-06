@@ -8,7 +8,7 @@ Sources: [SteamSpy API](https://steamspy.com/api.php), Steam Store API and [hist
 
 - `P1_Group_9.pdf` - project report.
 - `sql/schema.sql` - PostgreSQL table definitions.
-- `sql/queries.sql` - queries for the five business questions.
+- `sql/example_queries.sql` - queries for the five business questions.
 - `data/` - ten raw sample rows from each dataset. SteamSpy prices are in USD cents.
 
 See the PDF (P1_Group_9.pdf) for the full project description.
